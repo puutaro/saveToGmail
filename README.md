@@ -6,7 +6,7 @@
 
 
 # sendClipToGmail
-
+---------------------
 
 Send clipboard contents to Gmail draft @puutaro
 
