@@ -1,5 +1,6 @@
 
-<div><img src="https://github.com/puutaro/sendClipToGmail/assets/55217593/3ef6597f-0007-487f-af81-62b6cdd8d70d" width="300">  </div>
+
+<div><img src="https://github.com/puutaro/sendClipToGmail/assets/55217593/085e2777-f9d0-4f73-80f5-373bef7f6ff1" width="300">  </div>
   
 <div><img src="https://github.com/puutaro/selectTyper/assets/55217593/555e8f5f-656a-4faf-bb76-f663c01cfe47" width="300"></div> 
 
