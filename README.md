@@ -5,10 +5,10 @@
 <div><img src="https://github.com/puutaro/selectTyper/assets/55217593/555e8f5f-656a-4faf-bb76-f663c01cfe47" width="300"></div> 
 
 
-# sendClipToGmail
+# saveToGmail
 ---------------------
 
-Send clipboard contents to Gmail draft @puutaro
+Save site contents to Gmail draft @puutaro
 
 Table of Contents
 -------
