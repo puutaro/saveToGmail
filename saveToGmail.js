@@ -1,7 +1,7 @@
 
 
 /// LABELING_SECTION_START
-// https://github.com/puutaro/sendClipToGmail
+// https://github.com/puutaro/saveToGmail
 /// LABELING_SECTION_END
 
 
